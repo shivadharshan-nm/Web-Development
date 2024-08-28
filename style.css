@@ -1,0 +1,12 @@
+:root{
+    --orange-color: #DA722C;
+    --dark-blue-color: #023047;
+    --white-color: #E8F7FB;
+    --blue-color: #057ADA;
+    --black-color: #070917;
+    --purple-color: #6F7DFB; 
+}
+footer{
+    background: var(--black-color);
+    color: #E8F7FB;
+}
